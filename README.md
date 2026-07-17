@@ -39,6 +39,7 @@
 | [0202-happy-number](https://github.com/ashkan3841-dot/DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/ashkan3841-dot/DSA/tree/master/0234-palindrome-linked-list) |
 | [0680-valid-palindrome-ii](https://github.com/ashkan3841-dot/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/ashkan3841-dot/DSA/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/ashkan3841-dot/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/ashkan3841-dot/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/ashkan3841-dot/DSA/tree/master/0696-count-binary-substrings) |
 ## Greedy
 |  |
 | ------- |
