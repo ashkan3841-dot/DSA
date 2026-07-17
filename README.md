@@ -6,6 +6,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/ashkan3841-dot/DSA/tree/master/0041-first-missing-positive) |
 | [0781-rabbits-in-forest](https://github.com/ashkan3841-dot/DSA/tree/master/0781-rabbits-in-forest) |
+| [0821-shortest-distance-to-a-character](https://github.com/ashkan3841-dot/DSA/tree/master/0821-shortest-distance-to-a-character) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | [0234-palindrome-linked-list](https://github.com/ashkan3841-dot/DSA/tree/master/0234-palindrome-linked-list) |
 | [0680-valid-palindrome-ii](https://github.com/ashkan3841-dot/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/ashkan3841-dot/DSA/tree/master/0696-count-binary-substrings) |
+| [0821-shortest-distance-to-a-character](https://github.com/ashkan3841-dot/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0876-middle-of-the-linked-list](https://github.com/ashkan3841-dot/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
@@ -54,6 +56,7 @@
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/ashkan3841-dot/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/ashkan3841-dot/DSA/tree/master/0696-count-binary-substrings) |
+| [0821-shortest-distance-to-a-character](https://github.com/ashkan3841-dot/DSA/tree/master/0821-shortest-distance-to-a-character) |
 ## Greedy
 |  |
 | ------- |
