@@ -6,6 +6,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/ashkan3841-dot/DSA/tree/master/0041-first-missing-positive) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashkan3841-dot/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/ashkan3841-dot/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0781-rabbits-in-forest](https://github.com/ashkan3841-dot/DSA/tree/master/0781-rabbits-in-forest) |
 | [0821-shortest-distance-to-a-character](https://github.com/ashkan3841-dot/DSA/tree/master/0821-shortest-distance-to-a-character) |
 ## Hash Table
@@ -15,6 +16,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/ashkan3841-dot/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/ashkan3841-dot/DSA/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashkan3841-dot/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/ashkan3841-dot/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0781-rabbits-in-forest](https://github.com/ashkan3841-dot/DSA/tree/master/0781-rabbits-in-forest) |
 ## Linked List
 |  |
@@ -42,6 +44,7 @@
 | [0202-happy-number](https://github.com/ashkan3841-dot/DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/ashkan3841-dot/DSA/tree/master/0234-palindrome-linked-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashkan3841-dot/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/ashkan3841-dot/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0680-valid-palindrome-ii](https://github.com/ashkan3841-dot/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/ashkan3841-dot/DSA/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/ashkan3841-dot/DSA/tree/master/0821-shortest-distance-to-a-character) |
@@ -69,8 +72,10 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashkan3841-dot/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/ashkan3841-dot/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashkan3841-dot/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/ashkan3841-dot/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 <!---LeetCode Topics End-->
