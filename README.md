@@ -7,6 +7,7 @@
 | [0041-first-missing-positive](https://github.com/ashkan3841-dot/DSA/tree/master/0041-first-missing-positive) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashkan3841-dot/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ashkan3841-dot/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0554-brick-wall](https://github.com/ashkan3841-dot/DSA/tree/master/0554-brick-wall) |
 | [0781-rabbits-in-forest](https://github.com/ashkan3841-dot/DSA/tree/master/0781-rabbits-in-forest) |
 | [0821-shortest-distance-to-a-character](https://github.com/ashkan3841-dot/DSA/tree/master/0821-shortest-distance-to-a-character) |
 ## Hash Table
@@ -17,6 +18,7 @@
 | [0202-happy-number](https://github.com/ashkan3841-dot/DSA/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashkan3841-dot/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ashkan3841-dot/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0554-brick-wall](https://github.com/ashkan3841-dot/DSA/tree/master/0554-brick-wall) |
 | [0781-rabbits-in-forest](https://github.com/ashkan3841-dot/DSA/tree/master/0781-rabbits-in-forest) |
 ## Linked List
 |  |
