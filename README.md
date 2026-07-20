@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ashkan3841-dot/DSA/tree/master/0202-happy-number) |
+| [0650-2-keys-keyboard](https://github.com/ashkan3841-dot/DSA/tree/master/0650-2-keys-keyboard) |
 | [0781-rabbits-in-forest](https://github.com/ashkan3841-dot/DSA/tree/master/0781-rabbits-in-forest) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ashkan3841-dot/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ashkan3841-dot/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -100,4 +101,8 @@
 | ------- |
 | [0100-same-tree](https://github.com/ashkan3841-dot/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ashkan3841-dot/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0650-2-keys-keyboard](https://github.com/ashkan3841-dot/DSA/tree/master/0650-2-keys-keyboard) |
 <!---LeetCode Topics End-->
