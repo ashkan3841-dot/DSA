@@ -10,6 +10,7 @@
 | [0554-brick-wall](https://github.com/ashkan3841-dot/DSA/tree/master/0554-brick-wall) |
 | [0781-rabbits-in-forest](https://github.com/ashkan3841-dot/DSA/tree/master/0781-rabbits-in-forest) |
 | [0821-shortest-distance-to-a-character](https://github.com/ashkan3841-dot/DSA/tree/master/0821-shortest-distance-to-a-character) |
+| [1260-shift-2d-grid](https://github.com/ashkan3841-dot/DSA/tree/master/1260-shift-2d-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,4 +106,12 @@
 |  |
 | ------- |
 | [0650-2-keys-keyboard](https://github.com/ashkan3841-dot/DSA/tree/master/0650-2-keys-keyboard) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/ashkan3841-dot/DSA/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/ashkan3841-dot/DSA/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
