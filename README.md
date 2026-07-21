@@ -49,6 +49,7 @@
 | [0234-palindrome-linked-list](https://github.com/ashkan3841-dot/DSA/tree/master/0234-palindrome-linked-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashkan3841-dot/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ashkan3841-dot/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0647-palindromic-substrings](https://github.com/ashkan3841-dot/DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/ashkan3841-dot/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/ashkan3841-dot/DSA/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/ashkan3841-dot/DSA/tree/master/0821-shortest-distance-to-a-character) |
@@ -64,6 +65,7 @@
 ## String
 |  |
 | ------- |
+| [0647-palindromic-substrings](https://github.com/ashkan3841-dot/DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/ashkan3841-dot/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/ashkan3841-dot/DSA/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/ashkan3841-dot/DSA/tree/master/0821-shortest-distance-to-a-character) |
@@ -105,6 +107,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0647-palindromic-substrings](https://github.com/ashkan3841-dot/DSA/tree/master/0647-palindromic-substrings) |
 | [0650-2-keys-keyboard](https://github.com/ashkan3841-dot/DSA/tree/master/0650-2-keys-keyboard) |
 ## Matrix
 |  |
