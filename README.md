@@ -11,6 +11,7 @@
 | [0781-rabbits-in-forest](https://github.com/ashkan3841-dot/DSA/tree/master/0781-rabbits-in-forest) |
 | [0821-shortest-distance-to-a-character](https://github.com/ashkan3841-dot/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [1260-shift-2d-grid](https://github.com/ashkan3841-dot/DSA/tree/master/1260-shift-2d-grid) |
+| [1331-rank-transform-of-an-array](https://github.com/ashkan3841-dot/DSA/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/ashkan3841-dot/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0554-brick-wall](https://github.com/ashkan3841-dot/DSA/tree/master/0554-brick-wall) |
 | [0781-rabbits-in-forest](https://github.com/ashkan3841-dot/DSA/tree/master/0781-rabbits-in-forest) |
+| [1331-rank-transform-of-an-array](https://github.com/ashkan3841-dot/DSA/tree/master/1331-rank-transform-of-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -85,6 +87,7 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashkan3841-dot/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ashkan3841-dot/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1331-rank-transform-of-an-array](https://github.com/ashkan3841-dot/DSA/tree/master/1331-rank-transform-of-an-array) |
 ## Tree
 |  |
 | ------- |
