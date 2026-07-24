@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ashkan3841-dot/DSA/tree/master/0202-happy-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/ashkan3841-dot/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0509-fibonacci-number](https://github.com/ashkan3841-dot/DSA/tree/master/0509-fibonacci-number) |
 | [0650-2-keys-keyboard](https://github.com/ashkan3841-dot/DSA/tree/master/0650-2-keys-keyboard) |
 | [0781-rabbits-in-forest](https://github.com/ashkan3841-dot/DSA/tree/master/0781-rabbits-in-forest) |
@@ -69,6 +70,7 @@
 ## String
 |  |
 | ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/ashkan3841-dot/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0647-palindromic-substrings](https://github.com/ashkan3841-dot/DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/ashkan3841-dot/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/ashkan3841-dot/DSA/tree/master/0696-count-binary-substrings) |
@@ -132,4 +134,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/ashkan3841-dot/DSA/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/ashkan3841-dot/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 <!---LeetCode Topics End-->
