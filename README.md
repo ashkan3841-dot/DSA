@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/ashkan3841-dot/DSA/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/ashkan3841-dot/DSA/tree/master/0042-trapping-rain-water) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashkan3841-dot/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ashkan3841-dot/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0554-brick-wall](https://github.com/ashkan3841-dot/DSA/tree/master/0554-brick-wall) |
@@ -52,6 +53,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ashkan3841-dot/DSA/tree/master/0042-trapping-rain-water) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ashkan3841-dot/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/ashkan3841-dot/DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/ashkan3841-dot/DSA/tree/master/0234-palindrome-linked-list) |
@@ -65,6 +67,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ashkan3841-dot/DSA/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/ashkan3841-dot/DSA/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/ashkan3841-dot/DSA/tree/master/0682-baseball-game) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ashkan3841-dot/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -124,6 +127,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ashkan3841-dot/DSA/tree/master/0042-trapping-rain-water) |
 | [0509-fibonacci-number](https://github.com/ashkan3841-dot/DSA/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/ashkan3841-dot/DSA/tree/master/0647-palindromic-substrings) |
 | [0650-2-keys-keyboard](https://github.com/ashkan3841-dot/DSA/tree/master/0650-2-keys-keyboard) |
@@ -152,5 +156,6 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ashkan3841-dot/DSA/tree/master/0042-trapping-rain-water) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ashkan3841-dot/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
