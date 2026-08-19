@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/ashkan3841-dot/DSA/tree/master/0041-first-missing-positive) |
+| [0076-minimum-window-substring](https://github.com/ashkan3841-dot/DSA/tree/master/0076-minimum-window-substring) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ashkan3841-dot/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/ashkan3841-dot/DSA/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashkan3841-dot/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -80,6 +81,7 @@
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/ashkan3841-dot/DSA/tree/master/0076-minimum-window-substring) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ashkan3841-dot/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0647-palindromic-substrings](https://github.com/ashkan3841-dot/DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/ashkan3841-dot/DSA/tree/master/0680-valid-palindrome-ii) |
@@ -158,4 +160,8 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ashkan3841-dot/DSA/tree/master/0042-trapping-rain-water) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ashkan3841-dot/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/ashkan3841-dot/DSA/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
