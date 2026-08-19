@@ -15,6 +15,7 @@
 | [1260-shift-2d-grid](https://github.com/ashkan3841-dot/DSA/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/ashkan3841-dot/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ashkan3841-dot/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1710-maximum-units-on-a-truck](https://github.com/ashkan3841-dot/DSA/tree/master/1710-maximum-units-on-a-truck) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,6 +99,7 @@
 | [0409-longest-palindrome](https://github.com/ashkan3841-dot/DSA/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/ashkan3841-dot/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0781-rabbits-in-forest](https://github.com/ashkan3841-dot/DSA/tree/master/0781-rabbits-in-forest) |
+| [1710-maximum-units-on-a-truck](https://github.com/ashkan3841-dot/DSA/tree/master/1710-maximum-units-on-a-truck) |
 ## Binary Search
 |  |
 | ------- |
@@ -110,6 +112,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashkan3841-dot/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ashkan3841-dot/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/ashkan3841-dot/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/ashkan3841-dot/DSA/tree/master/1710-maximum-units-on-a-truck) |
 ## Tree
 |  |
 | ------- |
