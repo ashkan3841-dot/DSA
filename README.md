@@ -31,6 +31,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ashkan3841-dot/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ashkan3841-dot/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/ashkan3841-dot/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ashkan3841-dot/DSA/tree/master/0237-delete-node-in-a-linked-list) |
@@ -167,4 +168,20 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/ashkan3841-dot/DSA/tree/master/0076-minimum-window-substring) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ashkan3841-dot/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ashkan3841-dot/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ashkan3841-dot/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ashkan3841-dot/DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
