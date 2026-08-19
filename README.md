@@ -92,6 +92,7 @@
 | [0696-count-binary-substrings](https://github.com/ashkan3841-dot/DSA/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/ashkan3841-dot/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [1544-make-the-string-great](https://github.com/ashkan3841-dot/DSA/tree/master/1544-make-the-string-great) |
+| [1736-latest-time-by-replacing-hidden-digits](https://github.com/ashkan3841-dot/DSA/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ashkan3841-dot/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Greedy
 |  |
@@ -100,6 +101,7 @@
 | [0680-valid-palindrome-ii](https://github.com/ashkan3841-dot/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0781-rabbits-in-forest](https://github.com/ashkan3841-dot/DSA/tree/master/0781-rabbits-in-forest) |
 | [1710-maximum-units-on-a-truck](https://github.com/ashkan3841-dot/DSA/tree/master/1710-maximum-units-on-a-truck) |
+| [1736-latest-time-by-replacing-hidden-digits](https://github.com/ashkan3841-dot/DSA/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 ## Binary Search
 |  |
 | ------- |
