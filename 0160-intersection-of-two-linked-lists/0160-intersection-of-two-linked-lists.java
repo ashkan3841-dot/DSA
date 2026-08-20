@@ -15,16 +15,18 @@ public class Solution {
         ListNode tempB=headB;
 
         int lenA=0;
-        while(headA!=null){
+        while(tempA!=null){
             lenA++;
-            headA=headA.next;
+            tempA=tempA.next;
 
         }
         int lenB=0;
-        while(headB!=null){
+        while(tempB!=null){
             lenB++;
-            headB=headB.next;
+            tempB=tempB.next;
         }
+        tempA=headA;
+        tempB=headB;
 
         if(lenA>lenB){
             int steps=lenA-lenB;
