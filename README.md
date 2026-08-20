@@ -39,6 +39,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/ashkan3841-dot/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ashkan3841-dot/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ashkan3841-dot/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ashkan3841-dot/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | [0696-count-binary-substrings](https://github.com/ashkan3841-dot/DSA/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/ashkan3841-dot/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0876-middle-of-the-linked-list](https://github.com/ashkan3841-dot/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ashkan3841-dot/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
