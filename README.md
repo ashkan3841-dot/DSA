@@ -25,6 +25,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/ashkan3841-dot/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ashkan3841-dot/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/ashkan3841-dot/DSA/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/ashkan3841-dot/DSA/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashkan3841-dot/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/ashkan3841-dot/DSA/tree/master/0409-longest-palindrome) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ashkan3841-dot/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/ashkan3841-dot/DSA/tree/master/0076-minimum-window-substring) |
+| [0242-valid-anagram](https://github.com/ashkan3841-dot/DSA/tree/master/0242-valid-anagram) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ashkan3841-dot/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/ashkan3841-dot/DSA/tree/master/0409-longest-palindrome) |
 | [0647-palindromic-substrings](https://github.com/ashkan3841-dot/DSA/tree/master/0647-palindromic-substrings) |
@@ -125,6 +127,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/ashkan3841-dot/DSA/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashkan3841-dot/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ashkan3841-dot/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/ashkan3841-dot/DSA/tree/master/1331-rank-transform-of-an-array) |
