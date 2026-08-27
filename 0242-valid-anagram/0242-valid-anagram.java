@@ -21,13 +21,16 @@ class Solution {
             Character ch=t.charAt(i);
             if(!mp.containsKey(ch)) return false;
             int currFreq=mp.get(ch);
-            mp.put(ch,currFreq-1);
+            if(currFreq == 1){
+                mp.remove(ch);
+            } else {
+                mp.put(ch, currFreq - 1);
+            }
+            
 
         }
-        for(Integer i: mp.values()){
-            if(i!=0) return false;
-        }
-        return true;
+        return mp.isEmpty();
+        
         
         
 
