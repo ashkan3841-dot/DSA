@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ashkan3841-dot/DSA/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/ashkan3841-dot/DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/ashkan3841-dot/DSA/tree/master/0042-trapping-rain-water) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashkan3841-dot/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -19,6 +20,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ashkan3841-dot/DSA/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/ashkan3841-dot/DSA/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/ashkan3841-dot/DSA/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/ashkan3841-dot/DSA/tree/master/0141-linked-list-cycle) |
