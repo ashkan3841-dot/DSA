@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/ashkan3841-dot/DSA/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/ashkan3841-dot/DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/ashkan3841-dot/DSA/tree/master/0042-trapping-rain-water) |
+| [0128-longest-consecutive-sequence](https://github.com/ashkan3841-dot/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashkan3841-dot/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ashkan3841-dot/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0554-brick-wall](https://github.com/ashkan3841-dot/DSA/tree/master/0554-brick-wall) |
@@ -23,6 +24,7 @@
 | [0001-two-sum](https://github.com/ashkan3841-dot/DSA/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/ashkan3841-dot/DSA/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/ashkan3841-dot/DSA/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/ashkan3841-dot/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ashkan3841-dot/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ashkan3841-dot/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ashkan3841-dot/DSA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -213,4 +215,8 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ashkan3841-dot/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ashkan3841-dot/DSA/tree/master/0142-linked-list-cycle-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ashkan3841-dot/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
