@@ -4,14 +4,13 @@ class Solution {
         int[] ans = {-1};
         HashMap<Integer,Integer> mp = new HashMap<>();
         for(int i=0;i<n;i++){
-            int v=target - nums[i];
-            if(mp.containsKey(v)){
-                int k=mp.get(v);
-                ans = new int[]{i,k};
+            int partner=target - nums[i];
+            if(mp.containsKey(partner)){
+                ans = new int[]{i,mp.get(partner)};
                 return ans;
-            }else{
-                mp.put(nums[i],i);
             }
+                mp.put(nums[i],i);
+            
         }
         return ans;
 
