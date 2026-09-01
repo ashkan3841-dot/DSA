@@ -8,6 +8,7 @@
 | [0041-first-missing-positive](https://github.com/ashkan3841-dot/DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/ashkan3841-dot/DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/ashkan3841-dot/DSA/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/ashkan3841-dot/DSA/tree/master/0051-n-queens) |
 | [0128-longest-consecutive-sequence](https://github.com/ashkan3841-dot/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashkan3841-dot/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ashkan3841-dot/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -224,4 +225,9 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/ashkan3841-dot/DSA/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/ashkan3841-dot/DSA/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/ashkan3841-dot/DSA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
