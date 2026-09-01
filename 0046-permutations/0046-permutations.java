@@ -59,9 +59,6 @@ class Solution {
 
     public List<List<Integer>> permute(int[] nums) {
         List<List<Integer>> ans = new ArrayList<>();
-
-        
-
         boolean[] isValid = new boolean[nums.length];
         helper(nums,0,ans);
         return ans;
