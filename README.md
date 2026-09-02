@@ -20,6 +20,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/ashkan3841-dot/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ashkan3841-dot/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1710-maximum-units-on-a-truck](https://github.com/ashkan3841-dot/DSA/tree/master/1710-maximum-units-on-a-truck) |
+| [2596-check-knight-tour-configuration](https://github.com/ashkan3841-dot/DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Hash Table
 |  |
 | ------- |
@@ -148,11 +149,13 @@
 | ------- |
 | [0100-same-tree](https://github.com/ashkan3841-dot/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ashkan3841-dot/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [2596-check-knight-tour-configuration](https://github.com/ashkan3841-dot/DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ashkan3841-dot/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ashkan3841-dot/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [2596-check-knight-tour-configuration](https://github.com/ashkan3841-dot/DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Tree
 |  |
 | ------- |
@@ -169,11 +172,13 @@
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/ashkan3841-dot/DSA/tree/master/1260-shift-2d-grid) |
+| [2596-check-knight-tour-configuration](https://github.com/ashkan3841-dot/DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/ashkan3841-dot/DSA/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/ashkan3841-dot/DSA/tree/master/1260-shift-2d-grid) |
+| [2596-check-knight-tour-configuration](https://github.com/ashkan3841-dot/DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Enumeration
 |  |
 | ------- |
